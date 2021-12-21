@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Jantero93/Jantero93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Top skills
+* TypeScript (and JavaScript)
+* React
+* Vue
+* Node (+ Express)
 
-Here are some ideas to get you started:
+#### I have done, doesn't include in top tier
+* Java, Android
+* Spring
+* C++ (this maybe could be in top skills)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I'm keen to learn more
+* C# .NET
+* Spring
