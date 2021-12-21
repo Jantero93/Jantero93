@@ -1,16 +1,18 @@
-### Hi there 👋
+Lately I have been done mostly full stack thing with TS + Node + Express, which is probably my the strongest stack. I have done some backend with Spring. Also C# .NET back end is interesting, but I have not studied it yet.
 
-#### Top skills
-* TypeScript (and JavaScript)
-* React
-* Vue
-* Node (+ Express)
+I don't have nothing against desktop or mobile developing, I just have not done them lately.
 
-#### I have done, doesn't include in top tier
-* Java, Android
-* Spring
-* C++ (this maybe could be in top skills)
+Shortly skillset:
 
-#### I'm keen to learn more
-* C# .NET
-* Spring
+
+>**Top**:<br>TS/JS + React + Vue + Node + Express
+
+
+
+>**I have done, not top tier**:<br>Java, Android, Spring, C++, Qt with widgets
+
+
+>**Interested to expand skillset:**<br>C#
+
+
+>**Other skills:**<br>Jira, Confluence, Bitbucket, Git, npm, OpenLayers
