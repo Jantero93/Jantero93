@@ -14,4 +14,4 @@ Shortly skillset:
 >**Interested to expand skillset:**<br>C#
 
 
->**Other skills:**<br>Jira, Confluence, Bitbucket, Git, npm, OpenLayers
+>**Other skills:**<br>Jira, Confluence, Bitbucket, Git, npm, OpenLayers, TypeORM
