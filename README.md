@@ -7,11 +7,10 @@ Shortly skillset:
 >**Top**:<br>TS/JS, React, Vue, Node, Express
 
 
+>**I have done, not top tier**:<br>Java, Android, Spring, C++
 
->**I have done, not top tier**:<br>Java, Android, Spring, C++, TypeORM
 
-
->**Interested to expand skillset:**<br>C#
+>**Interested to expand skillset:**<br>C#, Entity Framework
 
 
 >**Other skills:**<br>Jira, Confluence, Bitbucket, Git, npm, OpenLayers, TypeORM
