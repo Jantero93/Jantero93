@@ -13,4 +13,4 @@ Shortly skillset:
 >**Interested to expand skillset:**<br>C#, Entity Framework
 
 
->**Other skills:**<br>Jira, Confluence, Bitbucket, Git, npm, OpenLayers, TypeORM
+>**Other skills:**<br>Jira, Confluence, Bitbucket, Git, npm, OpenLayers, TypeORM, Hibernate
