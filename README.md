@@ -8,7 +8,7 @@ Shortly skillset:
 
 
 
->**I have done, not top tier**:<br>Java, Android, Spring, C++, Qt with widgets, Bootstrap
+>**I have done, not top tier**:<br>Java, Android, Spring, C++, TypeORM
 
 
 >**Interested to expand skillset:**<br>C#
