@@ -4,13 +4,10 @@ I don't have nothing against desktop or mobile developing, I just have not done 
 
 Shortly skillset:
 
->**Top**:<br>TS/JS, React, Vue, Node, Express
+>**Top**:<br>TS/JS, React, Vue, Node, Express, .NET, C#
 
 
 >**I have done, not top tier**:<br>Java, Android, Spring, C++
-
-
->**Interested to expand skillset:**<br>C#, Entity Framework
 
 
 >**Other skills:**<br>Jira, Confluence, Bitbucket, Git, npm, OpenLayers, TypeORM, Hibernate
