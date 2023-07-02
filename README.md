@@ -2,10 +2,10 @@ Keen on web developing
 
 Shortly skillset:
 
->**Top**:<br>TS/JS, React, Vue, Node, Express, .NET, C#
+>**Top**:<br>TS/JS, React, .NET, Windows Forms, SQL
 
 
->**I have done, not top tier**:<br>Java, Android, Spring, C++
+>**I have done, not top tier**:<br>Java, Spring Boot
 
 
->**Other skills:**<br>Jira, Confluence, Git, npm, OpenLayers, TypeORM, Hibernate, SQL
+>**Other skills:**<br>SQL, Vue, Express
